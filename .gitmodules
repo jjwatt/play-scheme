@@ -1,0 +1,3 @@
+[submodule "the-little-schemer"]
+	path = the-little-schemer
+	url = https://github.com/pkrumins/the-little-schemer.git
